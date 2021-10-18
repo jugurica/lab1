@@ -1,0 +1,40 @@
+
+
+
+body {
+    scroll-behavior: smooth;
+
+background-image: 
+    url("file:///C:/Users/Sabina/Downloads/161f3e9c-2e1f-49f1-8517-97a1b83f037b.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+}
+section{
+    padding-top: 100px;
+    padding-left: 350px;
+}
+
+
+h1 {
+    color: #EDF2F4;
+    font-size: 6vmax;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.whatIAm {
+    font-size: 3vmax;
+    font-family: 'Poppins', sans-serif;
+    color: #EDF2F4;
+}
+
+
+a {
+    width: 600px;
+    color: #EDF2F4;
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+}
+
